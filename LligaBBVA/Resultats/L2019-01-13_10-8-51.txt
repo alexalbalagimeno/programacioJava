@@ -1,0 +1,448 @@
+El equip que guanya la lliga es ACBilbao
+
+Classificació
+EQUIPS		PUNTS
+ACBilbao  	15
+AusiasCF  	12
+Barcelona  	6
+RealMadrid  	3
+
+Pichichi lliga: 13, nomJugadorBar13, cognomJugadorBar13, 25, 175
+Gols totals: 3
+
+Alineació Local ACBilbao
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+7, nomJugadorBil7, cognomJugadorBil7, 25, 190
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+11, nomJugadorBil11, cognomJugadorBil11, 25, 182
+2, nomJugadorBil2, cognomJugadorBil2, 25, 183
+9, nomJugadorBil9, cognomJugadorBil9, 25, 174
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+
+Alineació Visitant AusiasCF
+12, nomAus12, cognomAus12, 19, 190
+6, nomAus6, cognomAus6, 17, 169
+13, nomAus13, cognomAus13, 20, 188
+2, nomAus2, cognomAus2, 22, 177
+1, nomAus1, cognomAus1, 19, 181
+5, nomAus5, cognomAus5, 24, 190
+15, nomAus15, cognomAus15, 17, 169
+3, nomAus3, cognomAus3, 21, 182
+7, nomAus7, cognomAus7, 20, 197
+14, nomAus14, cognomAus14, 189, 189
+11, nomAus11, cognomAus11, 19, 176
+
+ACBilbao 0 - AusiasCF 3
+Guanya AusiasCF
+Gols equip local ACBilbao
+
+Gols equip visitant AusiasCF
+Gol de nomAus15 cognomAus15 minut 0
+Gol de nomAus13 cognomAus13 minut 14
+Gol de nomAus13 cognomAus13 minut 90
+
+
+Alineació Local ACBilbao
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+11, nomJugadorBil11, cognomJugadorBil11, 25, 182
+15, nomJugadorBil15, cognomJugadorBil15, 25, 173
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+7, nomJugadorBil7, cognomJugadorBil7, 25, 190
+5, nomJugadorBil5, cognomJugadorBil5, 25, 177
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+
+Alineació Visitant Barcelona
+3, nomJugadorBar3, cognomJugadorBar3, 25, 181
+2, nomJugadorBar2, cognomJugadorBar2, 25, 183
+6, nomJugadorBar6, cognomJugadorBar6, 25, 178
+89, as, as, 22, 188
+15, nomJugadorBar15, cognomJugadorBar15, 25, 173
+11, nomJugadorBar11, cognomJugadorBar11, 25, 182
+14, nomJugadorBar14, cognomJugadorBar14, 25, 174
+7, nomJugadorBar7, cognomJugadorBar7, 25, 190
+5, nomJugadorBar5, cognomJugadorBar5, 25, 177
+9, nomJugadorBar9, cognomJugadorBar9, 25, 174
+13, nomJugadorBar13, cognomJugadorBar13, 25, 175
+
+ACBilbao 1 - Barcelona 0
+Guanya ACBilbao
+Gols equip local ACBilbao
+Gol de nomJugadorBil15 cognomJugadorBil15 minut 17
+
+Gols equip visitant Barcelona
+
+
+Alineació Local ACBilbao
+5, nomJugadorBil5, cognomJugadorBil5, 25, 177
+2, nomJugadorBil2, cognomJugadorBil2, 25, 183
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+15, nomJugadorBil15, cognomJugadorBil15, 25, 173
+4, nomJugadorBil4, cognomJugadorBil4, 25, 180
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+
+Alineació Visitant RealMadrid
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+9, nomJugadorMad9, cognomJugadorMad9, 25, 174
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+13, nomJugadorMad13, cognomJugadorMad13, 25, 175
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+1, nomJugadorMad1, cognomJugadorMad1, 25, 188
+6, nomJugadorMad6, cognomJugadorMad6, 25, 178
+11, nomJugadorMad11, cognomJugadorMad11, 25, 182
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+
+ACBilbao 4 - RealMadrid 0
+Guanya ACBilbao
+Gols equip local ACBilbao
+Gol de nomJugadorBil2 cognomJugadorBil2 minut 17
+Gol de nomJugadorBil14 cognomJugadorBil14 minut 45
+Gol de nomJugadorBil4 cognomJugadorBil4 minut 51
+Gol de nomJugadorBil13 cognomJugadorBil13 minut 67
+
+Gols equip visitant RealMadrid
+
+
+Alineació Local AusiasCF
+7, nomAus7, cognomAus7, 20, 197
+11, nomAus11, cognomAus11, 19, 176
+14, nomAus14, cognomAus14, 189, 189
+15, nomAus15, cognomAus15, 17, 169
+4, nomAus4, cognomAus4, 18, 176
+9, nomAus9, cognomAus9, 22, 180
+13, nomAus13, cognomAus13, 20, 188
+1, nomAus1, cognomAus1, 19, 181
+3, nomAus3, cognomAus3, 21, 182
+8, nomAus8, cognomAus8, 20, 190
+6, nomAus6, cognomAus6, 17, 169
+
+Alineació Visitant ACBilbao
+15, nomJugadorBil15, cognomJugadorBil15, 25, 173
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+11, nomJugadorBil11, cognomJugadorBil11, 25, 182
+2, nomJugadorBil2, cognomJugadorBil2, 25, 183
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+9, nomJugadorBil9, cognomJugadorBil9, 25, 174
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+5, nomJugadorBil5, cognomJugadorBil5, 25, 177
+
+AusiasCF 2 - ACBilbao 4
+Guanya ACBilbao
+Gols equip local AusiasCF
+Gol de nomAus9 cognomAus9 minut 11
+Gol de nomAus8 cognomAus8 minut 85
+
+Gols equip visitant ACBilbao
+Gol de nomJugadorBil5 cognomJugadorBil5 minut 31
+Gol de nomJugadorBil11 cognomJugadorBil11 minut 35
+Gol de nomJugadorBil9 cognomJugadorBil9 minut 50
+Gol de nomJugadorBil6 cognomJugadorBil6 minut 53
+
+
+Alineació Local AusiasCF
+2, nomAus2, cognomAus2, 22, 177
+9, nomAus9, cognomAus9, 22, 180
+6, nomAus6, cognomAus6, 17, 169
+10, nomAus10, cognomAus10, 19, 177
+4, nomAus4, cognomAus4, 18, 176
+8, nomAus8, cognomAus8, 20, 190
+5, nomAus5, cognomAus5, 24, 190
+12, nomAus12, cognomAus12, 19, 190
+1, nomAus1, cognomAus1, 19, 181
+11, nomAus11, cognomAus11, 19, 176
+15, nomAus15, cognomAus15, 17, 169
+
+Alineació Visitant Barcelona
+9, nomJugadorBar9, cognomJugadorBar9, 25, 174
+15, nomJugadorBar15, cognomJugadorBar15, 25, 173
+5, nomJugadorBar5, cognomJugadorBar5, 25, 177
+3, nomJugadorBar3, cognomJugadorBar3, 25, 181
+12, nomJugadorBar12, cognomJugadorBar12, 25, 183
+2, nomJugadorBar2, cognomJugadorBar2, 25, 183
+1, nomJugadorBar1, cognomJugadorBar1, 25, 188
+89, as, as, 22, 188
+7, nomJugadorBar7, cognomJugadorBar7, 25, 190
+11, nomJugadorBar11, cognomJugadorBar11, 25, 182
+14, nomJugadorBar14, cognomJugadorBar14, 25, 174
+
+AusiasCF 1 - Barcelona 0
+Guanya AusiasCF
+Gols equip local AusiasCF
+Gol de nomAus11 cognomAus11 minut 88
+
+Gols equip visitant Barcelona
+
+
+Alineació Local AusiasCF
+7, nomAus7, cognomAus7, 20, 197
+9, nomAus9, cognomAus9, 22, 180
+14, nomAus14, cognomAus14, 189, 189
+12, nomAus12, cognomAus12, 19, 190
+3, nomAus3, cognomAus3, 21, 182
+1, nomAus1, cognomAus1, 19, 181
+10, nomAus10, cognomAus10, 19, 177
+11, nomAus11, cognomAus11, 19, 176
+2, nomAus2, cognomAus2, 22, 177
+5, nomAus5, cognomAus5, 24, 190
+15, nomAus15, cognomAus15, 17, 169
+
+Alineació Visitant RealMadrid
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+9, nomJugadorMad9, cognomJugadorMad9, 25, 174
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+11, nomJugadorMad11, cognomJugadorMad11, 25, 182
+3, nomJugadorMad3, cognomJugadorMad3, 25, 181
+6, nomJugadorMad6, cognomJugadorMad6, 25, 178
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+2, nomJugadorMad2, cognomJugadorMad2, 25, 183
+
+AusiasCF 2 - RealMadrid 0
+Guanya AusiasCF
+Gols equip local AusiasCF
+Gol de nomAus15 cognomAus15 minut 20
+Gol de nomAus3 cognomAus3 minut 32
+
+Gols equip visitant RealMadrid
+
+
+Alineació Local Barcelona
+15, nomJugadorBar15, cognomJugadorBar15, 25, 173
+5, nomJugadorBar5, cognomJugadorBar5, 25, 177
+11, nomJugadorBar11, cognomJugadorBar11, 25, 182
+7, nomJugadorBar7, cognomJugadorBar7, 25, 190
+10, nomJugadorBar10, cognomJugadorBar10, 25, 181
+3, nomJugadorBar3, cognomJugadorBar3, 25, 181
+8, nomJugadorBar8, cognomJugadorBar8, 25, 175
+89, as, as, 22, 188
+1, nomJugadorBar1, cognomJugadorBar1, 25, 188
+9, nomJugadorBar9, cognomJugadorBar9, 25, 174
+14, nomJugadorBar14, cognomJugadorBar14, 25, 174
+
+Alineació Visitant ACBilbao
+7, nomJugadorBil7, cognomJugadorBil7, 25, 190
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+5, nomJugadorBil5, cognomJugadorBil5, 25, 177
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+4, nomJugadorBil4, cognomJugadorBil4, 25, 180
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+11, nomJugadorBil11, cognomJugadorBil11, 25, 182
+9, nomJugadorBil9, cognomJugadorBil9, 25, 174
+
+Barcelona 2 - ACBilbao 4
+Guanya ACBilbao
+Gols equip local Barcelona
+Gol de nomJugadorBar3 cognomJugadorBar3 minut 16
+Gol de nomJugadorBar5 cognomJugadorBar5 minut 55
+
+Gols equip visitant ACBilbao
+Gol de nomJugadorBil1 cognomJugadorBil1 minut 3
+Gol de nomJugadorBil10 cognomJugadorBil10 minut 15
+Gol de nomJugadorBil13 cognomJugadorBil13 minut 25
+Gol de nomJugadorBil10 cognomJugadorBil10 minut 55
+
+
+Alineació Local Barcelona
+9, nomJugadorBar9, cognomJugadorBar9, 25, 174
+10, nomJugadorBar10, cognomJugadorBar10, 25, 181
+3, nomJugadorBar3, cognomJugadorBar3, 25, 181
+15, nomJugadorBar15, cognomJugadorBar15, 25, 173
+6, nomJugadorBar6, cognomJugadorBar6, 25, 178
+1, nomJugadorBar1, cognomJugadorBar1, 25, 188
+5, nomJugadorBar5, cognomJugadorBar5, 25, 177
+14, nomJugadorBar14, cognomJugadorBar14, 25, 174
+12, nomJugadorBar12, cognomJugadorBar12, 25, 183
+7, nomJugadorBar7, cognomJugadorBar7, 25, 190
+4, nomJugadorBar4, cognomJugadorBar4, 25, 180
+
+Alineació Visitant AusiasCF
+14, nomAus14, cognomAus14, 189, 189
+8, nomAus8, cognomAus8, 20, 190
+4, nomAus4, cognomAus4, 18, 176
+6, nomAus6, cognomAus6, 17, 169
+13, nomAus13, cognomAus13, 20, 188
+10, nomAus10, cognomAus10, 19, 177
+7, nomAus7, cognomAus7, 20, 197
+3, nomAus3, cognomAus3, 21, 182
+9, nomAus9, cognomAus9, 22, 180
+2, nomAus2, cognomAus2, 22, 177
+1, nomAus1, cognomAus1, 19, 181
+
+Barcelona 1 - AusiasCF 0
+Guanya Barcelona
+Gols equip local Barcelona
+Gol de nomJugadorBar10 cognomJugadorBar10 minut 18
+
+Gols equip visitant AusiasCF
+
+
+Alineació Local Barcelona
+2, nomJugadorBar2, cognomJugadorBar2, 25, 183
+7, nomJugadorBar7, cognomJugadorBar7, 25, 190
+5, nomJugadorBar5, cognomJugadorBar5, 25, 177
+12, nomJugadorBar12, cognomJugadorBar12, 25, 183
+14, nomJugadorBar14, cognomJugadorBar14, 25, 174
+15, nomJugadorBar15, cognomJugadorBar15, 25, 173
+1, nomJugadorBar1, cognomJugadorBar1, 25, 188
+6, nomJugadorBar6, cognomJugadorBar6, 25, 178
+9, nomJugadorBar9, cognomJugadorBar9, 25, 174
+3, nomJugadorBar3, cognomJugadorBar3, 25, 181
+13, nomJugadorBar13, cognomJugadorBar13, 25, 175
+
+Alineació Visitant RealMadrid
+1, nomJugadorMad1, cognomJugadorMad1, 25, 188
+5, nomJugadorMad5, cognomJugadorMad5, 25, 177
+13, nomJugadorMad13, cognomJugadorMad13, 25, 175
+9, nomJugadorMad9, cognomJugadorMad9, 25, 174
+11, nomJugadorMad11, cognomJugadorMad11, 25, 182
+3, nomJugadorMad3, cognomJugadorMad3, 25, 181
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+2, nomJugadorMad2, cognomJugadorMad2, 25, 183
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+6, nomJugadorMad6, cognomJugadorMad6, 25, 178
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+
+Barcelona 4 - RealMadrid 2
+Guanya Barcelona
+Gols equip local Barcelona
+Gol de nomJugadorBar14 cognomJugadorBar14 minut 31
+Gol de nomJugadorBar13 cognomJugadorBar13 minut 32
+Gol de nomJugadorBar14 cognomJugadorBar14 minut 51
+Gol de nomJugadorBar13 cognomJugadorBar13 minut 86
+
+Gols equip visitant RealMadrid
+Gol de nomJugadorMad8 cognomJugadorMad8 minut 11
+Gol de nomJugadorMad7 cognomJugadorMad7 minut 32
+
+
+Alineació Local RealMadrid
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+13, nomJugadorMad13, cognomJugadorMad13, 25, 175
+3, nomJugadorMad3, cognomJugadorMad3, 25, 181
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+2, nomJugadorMad2, cognomJugadorMad2, 25, 183
+9, nomJugadorMad9, cognomJugadorMad9, 25, 174
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+6, nomJugadorMad6, cognomJugadorMad6, 25, 178
+
+Alineació Visitant ACBilbao
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+7, nomJugadorBil7, cognomJugadorBil7, 25, 190
+11, nomJugadorBil11, cognomJugadorBil11, 25, 182
+2, nomJugadorBil2, cognomJugadorBil2, 25, 183
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+15, nomJugadorBil15, cognomJugadorBil15, 25, 173
+4, nomJugadorBil4, cognomJugadorBil4, 25, 180
+
+RealMadrid 0 - ACBilbao 3
+Guanya ACBilbao
+Gols equip local RealMadrid
+
+Gols equip visitant ACBilbao
+Gol de nomJugadorBil12 cognomJugadorBil12 minut 22
+Gol de nomJugadorBil1 cognomJugadorBil1 minut 29
+Gol de nomJugadorBil15 cognomJugadorBil15 minut 79
+
+
+Alineació Local RealMadrid
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+5, nomJugadorMad5, cognomJugadorMad5, 25, 177
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+2, nomJugadorMad2, cognomJugadorMad2, 25, 183
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+6, nomJugadorMad6, cognomJugadorMad6, 25, 178
+3, nomJugadorMad3, cognomJugadorMad3, 25, 181
+
+Alineació Visitant AusiasCF
+7, nomAus7, cognomAus7, 20, 197
+8, nomAus8, cognomAus8, 20, 190
+10, nomAus10, cognomAus10, 19, 177
+5, nomAus5, cognomAus5, 24, 190
+14, nomAus14, cognomAus14, 189, 189
+1, nomAus1, cognomAus1, 19, 181
+11, nomAus11, cognomAus11, 19, 176
+6, nomAus6, cognomAus6, 17, 169
+13, nomAus13, cognomAus13, 20, 188
+2, nomAus2, cognomAus2, 22, 177
+15, nomAus15, cognomAus15, 17, 169
+
+RealMadrid 0 - AusiasCF 2
+Guanya AusiasCF
+Gols equip local RealMadrid
+
+Gols equip visitant AusiasCF
+Gol de nomAus5 cognomAus5 minut 14
+Gol de nomAus1 cognomAus1 minut 48
+
+
+Alineació Local RealMadrid
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+11, nomJugadorMad11, cognomJugadorMad11, 25, 182
+13, nomJugadorMad13, cognomJugadorMad13, 25, 175
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+2, nomJugadorMad2, cognomJugadorMad2, 25, 183
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+6, nomJugadorMad6, cognomJugadorMad6, 25, 178
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+5, nomJugadorMad5, cognomJugadorMad5, 25, 177
+9, nomJugadorMad9, cognomJugadorMad9, 25, 174
+
+Alineació Visitant Barcelona
+2, nomJugadorBar2, cognomJugadorBar2, 25, 183
+5, nomJugadorBar5, cognomJugadorBar5, 25, 177
+7, nomJugadorBar7, cognomJugadorBar7, 25, 190
+1, nomJugadorBar1, cognomJugadorBar1, 25, 188
+12, nomJugadorBar12, cognomJugadorBar12, 25, 183
+89, as, as, 22, 188
+6, nomJugadorBar6, cognomJugadorBar6, 25, 178
+10, nomJugadorBar10, cognomJugadorBar10, 25, 181
+8, nomJugadorBar8, cognomJugadorBar8, 25, 175
+9, nomJugadorBar9, cognomJugadorBar9, 25, 174
+13, nomJugadorBar13, cognomJugadorBar13, 25, 175
+
+RealMadrid 4 - Barcelona 2
+Guanya RealMadrid
+Gols equip local RealMadrid
+Gol de nomJugadorMad7 cognomJugadorMad7 minut 28
+Gol de nomJugadorMad4 cognomJugadorMad4 minut 41
+Gol de nomJugadorMad14 cognomJugadorMad14 minut 49
+Gol de nomJugadorMad7 cognomJugadorMad7 minut 52
+
+Gols equip visitant Barcelona
+Gol de nomJugadorBar13 cognomJugadorBar13 minut 19
+Gol de nomJugadorBar2 cognomJugadorBar2 minut 69
+

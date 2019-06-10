@@ -1,0 +1,670 @@
+{
+  "equips": [
+    {
+      "nomEquip": "ACBilbao",
+      "puntsLliga": 0,
+      "jugadors": {
+        "9": {
+          "dorsal": "9",
+          "nom": "nomJugadorBil9",
+          "cognom": "cognomJugadorBil9",
+          "edat": 25,
+          "alcada": 174,
+          "golsAcumulats": 0
+        },
+        "8": {
+          "dorsal": "8",
+          "nom": "nomJugadorBil8",
+          "cognom": "cognomJugadorBil8",
+          "edat": 25,
+          "alcada": 175,
+          "golsAcumulats": 0
+        },
+        "7": {
+          "dorsal": "7",
+          "nom": "nomJugadorBil7",
+          "cognom": "cognomJugadorBil7",
+          "edat": 25,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        "15": {
+          "dorsal": "15",
+          "nom": "nomJugadorBil15",
+          "cognom": "cognomJugadorBil15",
+          "edat": 25,
+          "alcada": 173,
+          "golsAcumulats": 0
+        },
+        "6": {
+          "dorsal": "6",
+          "nom": "nomJugadorBil6",
+          "cognom": "cognomJugadorBil6",
+          "edat": 25,
+          "alcada": 178,
+          "golsAcumulats": 0
+        },
+        "14": {
+          "dorsal": "14",
+          "nom": "nomJugadorBil14",
+          "cognom": "cognomJugadorBil14",
+          "edat": 25,
+          "alcada": 174,
+          "golsAcumulats": 0
+        },
+        "5": {
+          "dorsal": "5",
+          "nom": "nomJugadorBil5",
+          "cognom": "cognomJugadorBil5",
+          "edat": 25,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        "4": {
+          "dorsal": "4",
+          "nom": "nomJugadorBil4",
+          "cognom": "cognomJugadorBil4",
+          "edat": 25,
+          "alcada": 180,
+          "golsAcumulats": 0
+        },
+        "13": {
+          "dorsal": "13",
+          "nom": "nomJugadorBil13",
+          "cognom": "cognomJugadorBil13",
+          "edat": 25,
+          "alcada": 175,
+          "golsAcumulats": 0
+        },
+        "3": {
+          "dorsal": "3",
+          "nom": "nomJugadorBil3",
+          "cognom": "cognomJugadorBil3",
+          "edat": 25,
+          "alcada": 181,
+          "golsAcumulats": 0
+        },
+        "12": {
+          "dorsal": "12",
+          "nom": "nomJugadorBil12",
+          "cognom": "cognomJugadorBil12",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        },
+        "2": {
+          "dorsal": "2",
+          "nom": "nomJugadorBil2",
+          "cognom": "cognomJugadorBil2",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        },
+        "11": {
+          "dorsal": "11",
+          "nom": "nomJugadorBil11",
+          "cognom": "cognomJugadorBil11",
+          "edat": 25,
+          "alcada": 182,
+          "golsAcumulats": 0
+        },
+        "1": {
+          "dorsal": "1",
+          "nom": "nomJugadorBil1",
+          "cognom": "cognomJugadorBil1",
+          "edat": 88,
+          "alcada": 188,
+          "golsAcumulats": 0
+        },
+        "10": {
+          "dorsal": "10",
+          "nom": "nomJugadorBil10",
+          "cognom": "cognomJugadorBil10",
+          "edat": 25,
+          "alcada": 181,
+          "golsAcumulats": 0
+        }
+      },
+      "alineacio": [
+        {
+          "dorsal": "14",
+          "nom": "nomJugadorBil14",
+          "cognom": "cognomJugadorBil14",
+          "edat": 25,
+          "alcada": 174,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "3",
+          "nom": "nomJugadorBil3",
+          "cognom": "cognomJugadorBil3",
+          "edat": 25,
+          "alcada": 181,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "8",
+          "nom": "nomJugadorBil8",
+          "cognom": "cognomJugadorBil8",
+          "edat": 25,
+          "alcada": 175,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "15",
+          "nom": "nomJugadorBil15",
+          "cognom": "cognomJugadorBil15",
+          "edat": 25,
+          "alcada": 173,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "11",
+          "nom": "nomJugadorBil11",
+          "cognom": "cognomJugadorBil11",
+          "edat": 25,
+          "alcada": 182,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "5",
+          "nom": "nomJugadorBil5",
+          "cognom": "cognomJugadorBil5",
+          "edat": 25,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "1",
+          "nom": "nomJugadorBil1",
+          "cognom": "cognomJugadorBil1",
+          "edat": 88,
+          "alcada": 188,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "10",
+          "nom": "nomJugadorBil10",
+          "cognom": "cognomJugadorBil10",
+          "edat": 25,
+          "alcada": 181,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "12",
+          "nom": "nomJugadorBil12",
+          "cognom": "cognomJugadorBil12",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "7",
+          "nom": "nomJugadorBil7",
+          "cognom": "cognomJugadorBil7",
+          "edat": 25,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "2",
+          "nom": "nomJugadorBil2",
+          "cognom": "cognomJugadorBil2",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        }
+      ],
+      "fitxer": {
+        "path": "LligaBBVA\\ACBilbao.txt"
+      }
+    },
+    {
+      "nomEquip": "AusiasCF",
+      "puntsLliga": 0,
+      "jugadors": {
+        "9": {
+          "dorsal": "9",
+          "nom": "nomAus9",
+          "cognom": "cognomAus9",
+          "edat": 22,
+          "alcada": 180,
+          "golsAcumulats": 0
+        },
+        "8": {
+          "dorsal": "8",
+          "nom": "nomAus8",
+          "cognom": "cognomAus8",
+          "edat": 20,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        "7": {
+          "dorsal": "7",
+          "nom": "nomAus7",
+          "cognom": "cognomAus7",
+          "edat": 20,
+          "alcada": 197,
+          "golsAcumulats": 0
+        },
+        "15": {
+          "dorsal": "15",
+          "nom": "nomAus15",
+          "cognom": "cognomAus15",
+          "edat": 17,
+          "alcada": 169,
+          "golsAcumulats": 0
+        },
+        "6": {
+          "dorsal": "6",
+          "nom": "nomAus6",
+          "cognom": "cognomAus6",
+          "edat": 17,
+          "alcada": 169,
+          "golsAcumulats": 0
+        },
+        "14": {
+          "dorsal": "14",
+          "nom": "nomAus14",
+          "cognom": "cognomAus14",
+          "edat": 189,
+          "alcada": 189,
+          "golsAcumulats": 0
+        },
+        "5": {
+          "dorsal": "5",
+          "nom": "nomAus5",
+          "cognom": "cognomAus5",
+          "edat": 24,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        "13": {
+          "dorsal": "13",
+          "nom": "nomAus13",
+          "cognom": "cognomAus13",
+          "edat": 20,
+          "alcada": 188,
+          "golsAcumulats": 0
+        },
+        "4": {
+          "dorsal": "4",
+          "nom": "nomAus4",
+          "cognom": "cognomAus4",
+          "edat": 18,
+          "alcada": 176,
+          "golsAcumulats": 0
+        },
+        "12": {
+          "dorsal": "12",
+          "nom": "nomAus12",
+          "cognom": "cognomAus12",
+          "edat": 19,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        "3": {
+          "dorsal": "3",
+          "nom": "nomAus3",
+          "cognom": "cognomAus3",
+          "edat": 21,
+          "alcada": 182,
+          "golsAcumulats": 0
+        },
+        "11": {
+          "dorsal": "11",
+          "nom": "nomAus11",
+          "cognom": "cognomAus11",
+          "edat": 19,
+          "alcada": 176,
+          "golsAcumulats": 0
+        },
+        "2": {
+          "dorsal": "2",
+          "nom": "nomAus2",
+          "cognom": "cognomAus2",
+          "edat": 22,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        "10": {
+          "dorsal": "10",
+          "nom": "nomAus10",
+          "cognom": "cognomAus10",
+          "edat": 19,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        "1": {
+          "dorsal": "1",
+          "nom": "nomAus1",
+          "cognom": "cognomAus1",
+          "edat": 19,
+          "alcada": 181,
+          "golsAcumulats": 0
+        }
+      },
+      "alineacio": [
+        {
+          "dorsal": "7",
+          "nom": "nomAus7",
+          "cognom": "cognomAus7",
+          "edat": 20,
+          "alcada": 197,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "10",
+          "nom": "nomAus10",
+          "cognom": "cognomAus10",
+          "edat": 19,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "8",
+          "nom": "nomAus8",
+          "cognom": "cognomAus8",
+          "edat": 20,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "2",
+          "nom": "nomAus2",
+          "cognom": "cognomAus2",
+          "edat": 22,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "15",
+          "nom": "nomAus15",
+          "cognom": "cognomAus15",
+          "edat": 17,
+          "alcada": 169,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "1",
+          "nom": "nomAus1",
+          "cognom": "cognomAus1",
+          "edat": 19,
+          "alcada": 181,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "9",
+          "nom": "nomAus9",
+          "cognom": "cognomAus9",
+          "edat": 22,
+          "alcada": 180,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "13",
+          "nom": "nomAus13",
+          "cognom": "cognomAus13",
+          "edat": 20,
+          "alcada": 188,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "6",
+          "nom": "nomAus6",
+          "cognom": "cognomAus6",
+          "edat": 17,
+          "alcada": 169,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "12",
+          "nom": "nomAus12",
+          "cognom": "cognomAus12",
+          "edat": 19,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "11",
+          "nom": "nomAus11",
+          "cognom": "cognomAus11",
+          "edat": 19,
+          "alcada": 176,
+          "golsAcumulats": 0
+        }
+      ],
+      "fitxer": {
+        "path": "LligaBBVA\\AusiasCF.txt"
+      }
+    },
+    {
+      "nomEquip": "Barcelona",
+      "puntsLliga": 0,
+      "jugadors": {
+        "89": {
+          "dorsal": "89",
+          "nom": "as",
+          "cognom": "as",
+          "edat": 22,
+          "alcada": 188,
+          "golsAcumulats": 0
+        },
+        "9": {
+          "dorsal": "9",
+          "nom": "nomJugadorBar9",
+          "cognom": "cognomJugadorBar9",
+          "edat": 25,
+          "alcada": 174,
+          "golsAcumulats": 0
+        },
+        "8": {
+          "dorsal": "8",
+          "nom": "nomJugadorBar8",
+          "cognom": "cognomJugadorBar8",
+          "edat": 25,
+          "alcada": 175,
+          "golsAcumulats": 0
+        },
+        "7": {
+          "dorsal": "7",
+          "nom": "nomJugadorBar7",
+          "cognom": "cognomJugadorBar7",
+          "edat": 25,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        "15": {
+          "dorsal": "15",
+          "nom": "nomJugadorBar15",
+          "cognom": "cognomJugadorBar15",
+          "edat": 25,
+          "alcada": 173,
+          "golsAcumulats": 0
+        },
+        "6": {
+          "dorsal": "6",
+          "nom": "nomJugadorBar6",
+          "cognom": "cognomJugadorBar6",
+          "edat": 25,
+          "alcada": 178,
+          "golsAcumulats": 0
+        },
+        "14": {
+          "dorsal": "14",
+          "nom": "nomJugadorBar14",
+          "cognom": "cognomJugadorBar14",
+          "edat": 25,
+          "alcada": 174,
+          "golsAcumulats": 0
+        },
+        "5": {
+          "dorsal": "5",
+          "nom": "nomJugadorBar5",
+          "cognom": "cognomJugadorBar5",
+          "edat": 25,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        "4": {
+          "dorsal": "4",
+          "nom": "nomJugadorBar4",
+          "cognom": "cognomJugadorBar4",
+          "edat": 25,
+          "alcada": 180,
+          "golsAcumulats": 0
+        },
+        "13": {
+          "dorsal": "13",
+          "nom": "nomJugadorBar13",
+          "cognom": "cognomJugadorBar13",
+          "edat": 25,
+          "alcada": 175,
+          "golsAcumulats": 0
+        },
+        "3": {
+          "dorsal": "3",
+          "nom": "nomJugadorBar3",
+          "cognom": "cognomJugadorBar3",
+          "edat": 25,
+          "alcada": 181,
+          "golsAcumulats": 0
+        },
+        "12": {
+          "dorsal": "12",
+          "nom": "nomJugadorBar12",
+          "cognom": "cognomJugadorBar12",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        },
+        "2": {
+          "dorsal": "2",
+          "nom": "nomJugadorBar2",
+          "cognom": "cognomJugadorBar2",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        },
+        "11": {
+          "dorsal": "11",
+          "nom": "nomJugadorBar11",
+          "cognom": "cognomJugadorBar11",
+          "edat": 25,
+          "alcada": 182,
+          "golsAcumulats": 0
+        },
+        "1": {
+          "dorsal": "1",
+          "nom": "nomJugadorBar1",
+          "cognom": "cognomJugadorBar1",
+          "edat": 25,
+          "alcada": 188,
+          "golsAcumulats": 0
+        },
+        "10": {
+          "dorsal": "10",
+          "nom": "nomJugadorBar10",
+          "cognom": "cognomJugadorBar10",
+          "edat": 25,
+          "alcada": 181,
+          "golsAcumulats": 0
+        }
+      },
+      "alineacio": [
+        {
+          "dorsal": "89",
+          "nom": "as",
+          "cognom": "as",
+          "edat": 22,
+          "alcada": 188,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "10",
+          "nom": "nomJugadorBar10",
+          "cognom": "cognomJugadorBar10",
+          "edat": 25,
+          "alcada": 181,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "4",
+          "nom": "nomJugadorBar4",
+          "cognom": "cognomJugadorBar4",
+          "edat": 25,
+          "alcada": 180,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "8",
+          "nom": "nomJugadorBar8",
+          "cognom": "cognomJugadorBar8",
+          "edat": 25,
+          "alcada": 175,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "7",
+          "nom": "nomJugadorBar7",
+          "cognom": "cognomJugadorBar7",
+          "edat": 25,
+          "alcada": 190,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "12",
+          "nom": "nomJugadorBar12",
+          "cognom": "cognomJugadorBar12",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "11",
+          "nom": "nomJugadorBar11",
+          "cognom": "cognomJugadorBar11",
+          "edat": 25,
+          "alcada": 182,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "2",
+          "nom": "nomJugadorBar2",
+          "cognom": "cognomJugadorBar2",
+          "edat": 25,
+          "alcada": 183,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "14",
+          "nom": "nomJugadorBar14",
+          "cognom": "cognomJugadorBar14",
+          "edat": 25,
+          "alcada": 174,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "5",
+          "nom": "nomJugadorBar5",
+          "cognom": "cognomJugadorBar5",
+          "edat": 25,
+          "alcada": 177,
+          "golsAcumulats": 0
+        },
+        {
+          "dorsal": "13",
+          "nom": "nomJugadorBar13",
+          "cognom": "cognomJugadorBar13",
+          "edat": 25,
+          "alcada": 175,
+          "golsAcumulats": 0
+        }
+      ],
+      "fitxer": {
+        "path": "LligaBBVA\\Barcelona.txt"
+      }
+    }
+  ],
+  "nomLliga": "LligaBBVA"
+}

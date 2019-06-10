@@ -1,0 +1,16 @@
+89#as#as#22#188#0
+9#nomJugadorBar9#cognomJugadorBar9#25#174#0
+8#nomJugadorBar8#cognomJugadorBar8#25#175#0
+7#nomJugadorBar7#cognomJugadorBar7#25#190#0
+15#nomJugadorBar15#cognomJugadorBar15#25#173#0
+6#nomJugadorBar6#cognomJugadorBar6#25#178#0
+14#nomJugadorBar14#cognomJugadorBar14#25#174#0
+5#nomJugadorBar5#cognomJugadorBar5#25#177#0
+13#nomJugadorBar13#cognomJugadorBar13#25#175#0
+4#nomJugadorBar4#cognomJugadorBar4#25#180#0
+12#nomJugadorBar12#cognomJugadorBar12#25#183#0
+3#nomJugadorBar3#cognomJugadorBar3#25#181#0
+11#nomJugadorBar11#cognomJugadorBar11#25#182#0
+2#nomJugadorBar2#cognomJugadorBar2#25#183#0
+10#nomJugadorBar10#cognomJugadorBar10#25#181#0
+1#nomJugadorBar1#cognomJugadorBar1#25#188#0

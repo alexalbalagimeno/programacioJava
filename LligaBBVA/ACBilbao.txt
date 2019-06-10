@@ -1,0 +1,15 @@
+9#nomJugadorBil9#cognomJugadorBil9#25#174#0
+8#nomJugadorBil8#cognomJugadorBil8#25#175#0
+7#nomJugadorBil7#cognomJugadorBil7#25#190#0
+15#nomJugadorBil15#cognomJugadorBil15#25#173#0
+6#nomJugadorBil6#cognomJugadorBil6#25#178#0
+14#nomJugadorBil14#cognomJugadorBil14#25#174#0
+5#nomJugadorBil5#cognomJugadorBil5#25#177#0
+13#nomJugadorBil13#cognomJugadorBil13#25#175#0
+4#nomJugadorBil4#cognomJugadorBil4#25#180#0
+12#nomJugadorBil12#cognomJugadorBil12#25#183#0
+3#nomJugadorBil3#cognomJugadorBil3#25#181#0
+11#nomJugadorBil11#cognomJugadorBil11#25#182#0
+2#nomJugadorBil2#cognomJugadorBil2#25#183#0
+10#nomJugadorBil10#cognomJugadorBil10#25#181#0
+1#nomJugadorBil1#cognomJugadorBil1#88#188#0

@@ -1,0 +1,232 @@
+El equip que guanya la lliga es AC Bilbao
+
+Classificació
+EQUIPS		PUNTS
+AC Bilbao  	6
+equipnouCF  	6
+Real Madrid  	6
+
+Pichichi lliga: 14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+Gols totals: 3
+
+Alineació Local AC Bilbao
+2, nomJugadorBil2, cognomJugadorBil2, 25, 183
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+15, nomJugadorBil15, cognomJugadorBil15, 25, 173
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+4, nomJugadorBil4, cognomJugadorBil4, 25, 180
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+9, nomJugadorBil9, cognomJugadorBil9, 25, 174
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+7, nomJugadorBil7, cognomJugadorBil7, 25, 190
+11, nomJugadorBil11, cognomJugadorBil11, 25, 182
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+
+Alineació Visitant equipnouCF
+5, t, t, 5, 5
+10, p, p, 10, 10
+1, q, q, 1, 1
+9, o, o, 9, 9
+4, r, r, 4, 4
+12, s, s, 12, 12
+100, trtrtr, trtrtr, 55, 2
+6, y, y, 6, 6
+11, a, a, 11, 11
+7, u, u, 7, 7
+15, g, g, 15, 15
+
+AC Bilbao 2 - equipnouCF 0
+Guanya AC Bilbao
+Gols equip local AC Bilbao
+Gol de nomJugadorBil9 cognomJugadorBil9 minut 30
+Gol de nomJugadorBil14 cognomJugadorBil14 minut 36
+
+Gols equip visitant equipnouCF
+
+
+Alineació Local AC Bilbao
+4, nomJugadorBil4, cognomJugadorBil4, 25, 180
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+2, nomJugadorBil2, cognomJugadorBil2, 25, 183
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+7, nomJugadorBil7, cognomJugadorBil7, 25, 190
+
+Alineació Visitant Real Madrid
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+9, nomJugadorMad9, cognomJugadorMad9, 25, 174
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+11, nomJugadorMad11, cognomJugadorMad11, 25, 182
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+13, nomJugadorMad13, cognomJugadorMad13, 25, 175
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+1, nomJugadorMad1, cognomJugadorMad1, 25, 188
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+
+AC Bilbao 2 - Real Madrid 3
+Guanya Real Madrid
+Gols equip local AC Bilbao
+Gol de nomJugadorBil14 cognomJugadorBil14 minut 6
+Gol de nomJugadorBil12 cognomJugadorBil12 minut 23
+
+Gols equip visitant Real Madrid
+Gol de nomJugadorMad15 cognomJugadorMad15 minut 5
+Gol de nomJugadorMad10 cognomJugadorMad10 minut 66
+Gol de nomJugadorMad7 cognomJugadorMad7 minut 77
+
+
+Alineació Local equipnouCF
+13, d, d, 13, 13
+3, e, e, 3, 3
+5, t, t, 5, 5
+7, u, u, 7, 7
+15, g, g, 15, 15
+9, o, o, 9, 9
+4, r, r, 4, 4
+14, f, f, 14, 14
+11, a, a, 11, 11
+6, y, y, 6, 6
+10, p, p, 10, 10
+
+Alineació Visitant AC Bilbao
+5, nomJugadorBil5, cognomJugadorBil5, 25, 177
+15, nomJugadorBil15, cognomJugadorBil15, 25, 173
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+9, nomJugadorBil9, cognomJugadorBil9, 25, 174
+
+equipnouCF 3 - AC Bilbao 1
+Guanya equipnouCF
+Gols equip local equipnouCF
+Gol de g g minut 9
+Gol de o o minut 26
+Gol de y y minut 51
+
+Gols equip visitant AC Bilbao
+Gol de nomJugadorBil8 cognomJugadorBil8 minut 84
+
+
+Alineació Local equipnouCF
+6, y, y, 6, 6
+10, p, p, 10, 10
+5, t, t, 5, 5
+100, trtrtr, trtrtr, 55, 2
+12, s, s, 12, 12
+15, g, g, 15, 15
+3, e, e, 3, 3
+1, q, q, 1, 1
+4, r, r, 4, 4
+7, u, u, 7, 7
+8, i, i, 8, 8
+
+Alineació Visitant Real Madrid
+13, nomJugadorMad13, cognomJugadorMad13, 25, 175
+1, nomJugadorMad1, cognomJugadorMad1, 25, 188
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+3, nomJugadorMad3, cognomJugadorMad3, 25, 181
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+2, nomJugadorMad2, cognomJugadorMad2, 25, 183
+5, nomJugadorMad5, cognomJugadorMad5, 25, 177
+
+equipnouCF 4 - Real Madrid 2
+Guanya equipnouCF
+Gols equip local equipnouCF
+Gol de y y minut 61
+Gol de q q minut 78
+Gol de trtrtr trtrtr minut 81
+Gol de t t minut 82
+
+Gols equip visitant Real Madrid
+Gol de nomJugadorMad10 cognomJugadorMad10 minut 30
+Gol de nomJugadorMad15 cognomJugadorMad15 minut 71
+
+
+Alineació Local Real Madrid
+3, nomJugadorMad3, cognomJugadorMad3, 25, 181
+4, nomJugadorMad4, cognomJugadorMad4, 25, 180
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+7, nomJugadorMad7, cognomJugadorMad7, 25, 190
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+11, nomJugadorMad11, cognomJugadorMad11, 25, 182
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+1, nomJugadorMad1, cognomJugadorMad1, 25, 188
+13, nomJugadorMad13, cognomJugadorMad13, 25, 175
+
+Alineació Visitant AC Bilbao
+7, nomJugadorBil7, cognomJugadorBil7, 25, 190
+14, nomJugadorBil14, cognomJugadorBil14, 25, 174
+9, nomJugadorBil9, cognomJugadorBil9, 25, 174
+12, nomJugadorBil12, cognomJugadorBil12, 25, 183
+6, nomJugadorBil6, cognomJugadorBil6, 25, 178
+11, nomJugadorBil11, cognomJugadorBil11, 25, 182
+1, nomJugadorBil1, cognomJugadorBil1, 88, 188
+13, nomJugadorBil13, cognomJugadorBil13, 25, 175
+8, nomJugadorBil8, cognomJugadorBil8, 25, 175
+3, nomJugadorBil3, cognomJugadorBil3, 25, 181
+10, nomJugadorBil10, cognomJugadorBil10, 25, 181
+
+Real Madrid 0 - AC Bilbao 2
+Guanya AC Bilbao
+Gols equip local Real Madrid
+
+Gols equip visitant AC Bilbao
+Gol de nomJugadorBil14 cognomJugadorBil14 minut 39
+Gol de nomJugadorBil13 cognomJugadorBil13 minut 82
+
+
+Alineació Local Real Madrid
+6, nomJugadorMad6, cognomJugadorMad6, 25, 178
+1, nomJugadorMad1, cognomJugadorMad1, 25, 188
+12, nomJugadorMad12, cognomJugadorMad12, 25, 183
+11, nomJugadorMad11, cognomJugadorMad11, 25, 182
+10, nomJugadorMad10, cognomJugadorMad10, 25, 181
+9, nomJugadorMad9, cognomJugadorMad9, 25, 174
+3, nomJugadorMad3, cognomJugadorMad3, 25, 181
+14, nomJugadorMad14, cognomJugadorMad14, 25, 174
+5, nomJugadorMad5, cognomJugadorMad5, 25, 177
+15, nomJugadorMad15, cognomJugadorMad15, 25, 173
+8, nomJugadorMad8, cognomJugadorMad8, 25, 175
+
+Alineació Visitant equipnouCF
+100, trtrtr, trtrtr, 55, 2
+4, r, r, 4, 4
+14, f, f, 14, 14
+5, t, t, 5, 5
+9, o, o, 9, 9
+1, q, q, 1, 1
+8, i, i, 8, 8
+6, y, y, 6, 6
+3, e, e, 3, 3
+7, u, u, 7, 7
+13, d, d, 13, 13
+
+Real Madrid 4 - equipnouCF 1
+Guanya Real Madrid
+Gols equip local Real Madrid
+Gol de nomJugadorMad8 cognomJugadorMad8 minut 9
+Gol de nomJugadorMad9 cognomJugadorMad9 minut 50
+Gol de nomJugadorMad15 cognomJugadorMad15 minut 77
+Gol de nomJugadorMad3 cognomJugadorMad3 minut 78
+
+Gols equip visitant equipnouCF
+Gol de y y minut 50
+

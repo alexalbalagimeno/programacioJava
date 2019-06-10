@@ -1,0 +1,15 @@
+9#nomAus9#cognomAus9#22#180#0
+8#nomAus8#cognomAus8#20#190#0
+7#nomAus7#cognomAus7#20#197#0
+15#nomAus15#cognomAus15#17#169#0
+6#nomAus6#cognomAus6#17#169#0
+14#nomAus14#cognomAus14#189#189#0
+5#nomAus5#cognomAus5#24#190#0
+4#nomAus4#cognomAus4#18#176#0
+13#nomAus13#cognomAus13#20#188#0
+3#nomAus3#cognomAus3#21#182#0
+12#nomAus12#cognomAus12#19#190#0
+2#nomAus2#cognomAus2#22#177#0
+11#nomAus11#cognomAus11#19#176#0
+1#nomAus1#cognomAus1#19#181#0
+10#nomAus10#cognomAus10#19#177#0
